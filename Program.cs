@@ -32,7 +32,7 @@ namespace semana_2__proyecto_de_consola_calculadora_henry_sanchezpt2
             Console.WriteLine("\ts - Resta");
             Console.WriteLine("\tm - Multiplicación");
             Console.WriteLine("\td - Divición");
-            Console.Write("Tú opción? ");
+            Console.Write("Tú opción? "); 
 
 
             // Use a switch statement to do the math.
